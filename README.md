@@ -1,7 +1,7 @@
 ## Project Overview
 This project includes notebooks for the following Kaggle competition
 
-Predict 5,000 stocks: Will the Close price rise or fall in 30 days?
+Predict 5,000 stocks: Will the Close price rise or fall in 30 days of trading?
 https://www.kaggle.com/competitions/predicting-stock-trends-rise-or-fall
 
 ## Project Structure
@@ -23,3 +23,9 @@ https://www.kaggle.com/competitions/predicting-stock-trends-rise-or-fall
 * [shigeokitamura](https://github.com/shigeokitamura)
 * [Alfredo2594](https://github.com/Alfredo2594)
 * [krlove98](https://github.com/krlove98)
+
+## Metatrader5 Stock Markets ( As additional information, we can see the markets and stock prices to make future predictions )
+https://online.ugfx.com/terminal
+.ID : 974896
+.Password: WeMasterTrade@1
+.Server: 185.56.136.74
